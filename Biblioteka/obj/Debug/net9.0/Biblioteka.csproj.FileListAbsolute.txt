@@ -1,0 +1,14 @@
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\obj\Debug\net9.0\Biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\obj\Debug\net9.0\Biblioteka.AssemblyInfoInputs.cache
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\obj\Debug\net9.0\Biblioteka.AssemblyInfo.cs
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\obj\Debug\net9.0\Biblioteka.csproj.CoreCompileInputs.cache
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\bin\Debug\net9.0\Biblioteka.exe
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\bin\Debug\net9.0\Biblioteka.deps.json
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\bin\Debug\net9.0\Biblioteka.runtimeconfig.json
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\bin\Debug\net9.0\Biblioteka.dll
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\bin\Debug\net9.0\Biblioteka.pdb
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\obj\Debug\net9.0\Biblioteka.dll
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\obj\Debug\net9.0\refint\Biblioteka.dll
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\obj\Debug\net9.0\Biblioteka.pdb
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\obj\Debug\net9.0\Biblioteka.genruntimeconfig.cache
+D:\.szkoła\Semestr VI\Zaawansowane programowanie obiektowe\LAB - Krystian Lewandowski\Biblioteka\Biblioteka\obj\Debug\net9.0\ref\Biblioteka.dll
