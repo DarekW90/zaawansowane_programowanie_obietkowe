@@ -14,14 +14,14 @@ Prosta aplikacja konsolowa do zarządzania biblioteką książek. Umożliwia dod
 
 📦 Struktura Kodu:
 
-    Plik/Klasa	Opis
-    Book	Klasa reprezentująca książkę (ID, tytuł, autor, gatunek, opcjonalny własny gatunek).
-    BookGenre	Enum zawierający gatunki książek.
-    User / AdminUser	Klasy użytkowników, dziedziczenie + interfejs logowania.
-    ICrudOperations<T>	Interfejs definiujący operacje CRUD.
-    LibraryDatabase	Singleton przechowujący listę książek.
-    LibraryManager	Interfejs użytkownika w trybie tekstowym (menu, logika interakcji).
-    Program	Punkt wejścia aplikacji (tworzy użytkownika i uruchamia menedżera).
+Plik/Klasa	Opis
+- Book - Klasa reprezentująca książkę (ID, tytuł, autor, gatunek, opcjonalny własny gatunek).
+- BookGenre	- Enum zawierający gatunki książek.
+- User / AdminUser	- Klasy użytkowników, dziedziczenie + interfejs logowania.
+- ICrudOperations - Interfejs definiujący operacje CRUD.
+- LibraryDatabase - Singleton przechowujący listę książek.
+- LibraryManager - Interfejs użytkownika w trybie tekstowym (menu, logika interakcji).
+- Program - Punkt wejścia aplikacji (tworzy użytkownika i uruchamia menedżera).
 
 ▶️ Uruchomienie:
 Skorzystaj z Visual Studio, Visual Studio Code (z .NET SDK), lub uruchom w terminalu:
