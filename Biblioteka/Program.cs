@@ -33,7 +33,7 @@ public interface IUserActions
     void LogOut();
 }
 
-// KLASA BOOK
+// KLASA BOOK (1/5)
 public class Book
 {
     private static int _nextId = 1;
@@ -73,7 +73,7 @@ public class Book
             return $"{Id}: {Title} by {Author} ({genreText})";
         }
 }
-// KLASA USER (DZIEDZICZENIE)
+// KLASA USER (DZIEDZICZENIE) (2/5) (Dziedziczenie i implementacja)
 public class User : IUserActions
 {
     public string Username { get; set; }
@@ -94,7 +94,7 @@ public class User : IUserActions
     }
 }
 
-// KLASA ADMIN USER (DZIEDZICZENIE)
+// KLASA ADMIN USER (DZIEDZICZENIE) (3/5)  (Dziedziczenie i implementacja)
 public class AdminUser : User
 {
     public AdminUser(string username) : base(username) { }
@@ -110,7 +110,7 @@ public class AdminUser : User
     }
 }
 
-// SINGLETON - BAZA DANYCH
+// SINGLETON - BAZA DANYCH (singleton jako DB)
 public class LibraryDatabase : ICrudOperations<Book>
 {
     private static LibraryDatabase _instance;
@@ -164,7 +164,7 @@ public class LibraryDatabase : ICrudOperations<Book>
     }
 }
 
-// KLASA ZARZĄDZAJĄCA BIBLIOTEKĄ I INTERFEJSEM
+// KLASA ZARZĄDZAJĄCA BIBLIOTEKĄ I INTERFEJSEM (4/5)
 public class LibraryManager
 {
     private LibraryDatabase _db = LibraryDatabase.Instance;
@@ -324,7 +324,7 @@ public class LibraryManager
     }
 }
 
-// PROGRAM
+// PROGRAM (5/5)
 class Program
 {
     static void Main()
